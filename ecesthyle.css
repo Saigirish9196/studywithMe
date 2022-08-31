@@ -6,6 +6,12 @@ body{
   background-color: #FFF38C;
 
 }
+@media (max-width:650px) {
+  img{
+  text-align: center;
+  width: 80%;
+}
+}
 .container{
   padding: 5% 10%;
   text-align: center;
