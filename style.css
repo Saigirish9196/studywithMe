@@ -1,0 +1,73 @@
+/* title section */
+#title{
+  background-color:#FFF38C;
+}
+.navbar-expand-lg{
+  padding: 2% 2%;
+}
+.nav-item{
+  padding: 0 30px;
+  text-align: center;
+}
+.row{
+  padding: 5% 10%;
+  text-align:center;
+
+}
+/* heading */
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+}
+p{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2;
+  color: #8f8f8f;
+
+}
+/* media quary */
+@media (max-width:510px) {
+  .book-phone{
+    width: 90%;
+    height: 100%;
+  }
+  h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 7rem;
+    font-weight: 900;
+  }
+  p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    line-height: 2;
+    color: #8f8f8f;
+
+  }
+}
+/* Courses section */
+
+.Courses-pic{
+  width: 70%;
+  height: 70%;
+
+}
+/* Zoom-effect */
+.footer:hover{
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+
+}
+/* footer section */
+footer{
+  background-color: grey;
+  padding: 5% 17%;
+  text-align: center;
+}
+.footer{
+    font-size: 30px;
+    color: white;
+    margin: 1% 2%;
+}
