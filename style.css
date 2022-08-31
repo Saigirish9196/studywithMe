@@ -29,14 +29,14 @@ p{
 
 }
 /* media quary */
-@media (max-width:510px) {
+@media (max-width:650px) {
   .book-phone{
     width: 80%;
     height: 100%;
   }
   h1{
   font-family: "Montserrat", sans-serif;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 900;
 }
 p{
