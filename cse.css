@@ -1,0 +1,74 @@
+body{
+  font-family: "Montserrat", sans-serif;
+}
+/* title section  */
+#title{
+  /* background-color: #FFF38C; */
+  background-image: url("cse backgroun image.webp");
+  color: white;
+
+}
+img{
+  width: 300px;
+}
+.container{
+  padding: 2% 10%;
+  text-align: center;
+}
+.navbar-expand-lg{
+  padding: 2% 2%;
+}
+.nav-item{
+  padding: 0 20px;
+  text-align: center;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+/* material section */
+.material{
+  text-align: center;
+  padding: 5% 7%;
+  font-size: 1.5rem;
+  background-image: url("My project-3.png");
+
+}
+a{
+  color: grey;
+}
+i:hover{
+  color: slategrey;
+  transform: scale(1.2);
+}
+h2{
+  margin-bottom: 3%;
+  font-size: 3rem;
+}
+/* whatsapp Contact */
+#footer{
+  padding: 5% 10%;
+  font-size: 50px;
+  text-align: center;
+}
+/* footer setion */
+footer{
+  background-color: grey;
+  padding: 5% 17%;
+  text-align: center;
+}
+.footer{
+    font-size: 30px;
+    color: white;
+    margin: 1% 2%;
+}
+.footer:hover{
+  color: white;
+}
+p{
+
+  font-size: 1.5rem;
+  font-size: 900;
+  line-height: 2;
+  color: #8f8f8f;
+}
