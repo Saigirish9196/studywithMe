@@ -31,28 +31,16 @@ p{
 /* media quary */
 @media (max-width:510px) {
   .book-phone{
-    width: 90%;
+    width: 80%;
     height: 100%;
   }
-  h1{
-    font-family: "Montserrat", sans-serif;
-    font-size: 7rem;
-    font-weight: 900;
-  }
-  p{
-    font-family: "Montserrat", sans-serif;
-    font-size: 2rem;
-    font-weight: 900;
-    line-height: 2;
-    color: #8f8f8f;
-
-  }
+ 
 }
 /* Courses section */
 
 .Courses-pic{
-  width: 70%;
-  height: 70%;
+  width: 50%;
+  height: 50%;
 
 }
 /* Zoom-effect */
